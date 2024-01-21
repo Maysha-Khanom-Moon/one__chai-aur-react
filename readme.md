@@ -35,7 +35,6 @@
 - reusing of component (props)
 - how to propagate change (hooks)
 
-<br>
 ### core react complete react complete
 
 ## to make muiltipage application
