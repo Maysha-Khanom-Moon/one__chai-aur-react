@@ -8,6 +8,7 @@
 1. basic:
     - npx create-react-app app-name
     - but, onek time lage
+    - 'create-react-app': its a utility or software.
 
 2. vite:
     - npm create vite@latests
