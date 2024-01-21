@@ -1,3 +1,5 @@
+#### react: single page application
+
 ### why to learn react?
 - hype, job, trend, build UI
 - makes easy to manage & build complex frontend
@@ -15,10 +17,10 @@
 
 
 ## react learning process
-- 1. go in-depth
+1. go in-depth
     - babel, fibre, virtual dom, diff algo, hydration
 
-- 2. by making projects (one topic at a time)
+2. by making projects (one topic at a time)
     - todo, calculator, github api
 
 - although we have to learn both
@@ -33,8 +35,8 @@
 - reusing of component (props)
 - how to propagate change (hooks)
 
-
-- core react complete react complete
+<br>
+### core react complete react complete
 
 ## to make muiltipage application
 ### additional addon to react
@@ -45,3 +47,10 @@
     - legacy code
 - BAAS apps
     - social media clone, e-commerce app, ...
+
+
+## after react
+- react is not a complete solution in most case
+    - no seo, browser render of js, no routing
+- framework
+    - next js, gatsby, remix
